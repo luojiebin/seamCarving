@@ -1,0 +1,7 @@
+public class TestByte {
+    
+    public static void main(String[] args) {
+        byte b = 255;
+        StdOut.println(b):
+    }
+}
